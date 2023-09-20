@@ -1,4 +1,5 @@
-﻿using JwtStore.Core.SharedContext.Entities;
+﻿using JwtStore.Core.AccountContext.ValueObjects;
+using JwtStore.Core.SharedContext.Entities;
 
 namespace JwtStore.Core;
 
