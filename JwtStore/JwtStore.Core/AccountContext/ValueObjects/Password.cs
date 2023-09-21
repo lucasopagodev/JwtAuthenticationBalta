@@ -1,4 +1,6 @@
-﻿using JwtStore.Core.SharedContext.ValueObjects;
+﻿using System.ComponentModel;
+using System.Security.Cryptography;
+using JwtStore.Core.SharedContext.ValueObjects;
 
 namespace JwtStore.Core.AccountContext.ValueObjects;
 
@@ -26,5 +28,28 @@ public class Password : ValueObject
             res[index++] = chars[rnd.Next(startRandom, chars.Length)];
 
         return new string(res);
+    }
+
+    private static string Hashing(
+        string password,
+        short saltSize = 16,
+        short keySize = 32,
+        int iterations = 10000,
+        char splitChar = '.')
+    {
+        if (string.IsNullOrEmpty(password))
+            throw new Exception("Password should not be null or empty");
+
+        password += Configuration.Secrets.PasswordSaltKey;
+
+        using var algorithm = new Rfc2898DeriveBytes(
+            password,
+            saltSize,
+            iterations,
+            HashAlgorithmName.SHA256);
+        var key = Convert.ToBase64String(algorithm.GetBytes(keySize));
+        var salt = Convert.ToBase64String(algorithm.Salt);
+
+        return $"{iterations}{splitChar}{salt}{splitChar}{key}";
     }
 }
