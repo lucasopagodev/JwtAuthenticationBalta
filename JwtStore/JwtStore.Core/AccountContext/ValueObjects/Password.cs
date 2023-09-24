@@ -38,7 +38,7 @@ public class Password : ValueObject
         char splitChar = '.')
     {
         if (string.IsNullOrEmpty(password))
-            throw new Exception("Password should not be null or empty");
+            throw new Exception("A senha não pode ser nula ou vazia.");
 
         password += Configuration.Secrets.PasswordSaltKey;
 
