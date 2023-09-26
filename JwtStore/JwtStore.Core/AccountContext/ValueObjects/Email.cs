@@ -9,7 +9,11 @@ public partial class Email : ValueObject
 {
     private const string Pattern = @"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$";
 
-    public Email(string address) 
+    protected Email()
+    {
+    }
+
+    public Email(string address)
     {
         if (string.IsNullOrEmpty(address))
             throw new Exception("E-mail inválido!");
@@ -24,18 +28,18 @@ public partial class Email : ValueObject
     }
 
     public string Address { get; }
-    public string Hash 
+    public string Hash
         => Address.ToBase64();
     public Verification Verification { get; private set; } = new();
 
     public void ResendVerification()
         => Verification = new Verification();
 
-    public static implicit operator string(Email email) 
+    public static implicit operator string(Email email)
         => email.ToString();
-    public static implicit operator Email(string address) 
+    public static implicit operator Email(string address)
         => new(address);
-    public override string ToString() 
+    public override string ToString()
         => Address;
 
     [GeneratedRegex(Pattern)]
