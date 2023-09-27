@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fPw9JWfyNo6n3mYR1A0y/MGxtKVEqzeAaGhr7xwhBVJWgC4hjvvwrfweD8s2ARoAmbAAbUULZ0pvy4xcWJneXQ==",
+  "dgSpecHash": "B5sbQN35CeEns2GI5ff15s0Ded9mv5JKq+oHw6cuRwoUUy4vEeHKA820sBVcMbi+hngAkPlnTPTfyH/MT1bH7g==",
   "success": true,
-  "projectFilePath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
+  "projectFilePath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
