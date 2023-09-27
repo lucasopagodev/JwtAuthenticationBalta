@@ -1,8 +1,8 @@
 ﻿using System.Runtime.CompilerServices;
-using JwtStore.Core.Context.AccountContext.ValueObjects;
-using JwtStore.Core.Context.SharedContext.Entities;
+using JwtStore.Core.Contexts.AccountContext.ValueObjects;
+using JwtStore.Core.Contexts.SharedContext.Entities;
 
-namespace JwtStore.Core.Context.AccountContext.Entities;
+namespace JwtStore.Core.Contexts.AccountContext.Entities;
 
 public class User : Entity
 {

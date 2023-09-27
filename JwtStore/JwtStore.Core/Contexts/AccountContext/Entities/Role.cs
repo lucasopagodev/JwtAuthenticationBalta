@@ -1,4 +1,4 @@
-using JwtStore.Core.Context.SharedContext.Entities;
+using JwtStore.Core.Contexts.SharedContext.Entities;
 
 namespace JwtStore.Core.Contexts.AccountContext.Entities;
 public class Role : Entity
