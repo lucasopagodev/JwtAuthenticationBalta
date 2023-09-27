@@ -1,5 +1,5 @@
 ﻿using System.Text;
-namespace JwtStore.Core.SharedContext.Extensions;
+namespace JwtStore.Core.Context.SharedContext.Extensions;
 
 public static class StringExtension
 {

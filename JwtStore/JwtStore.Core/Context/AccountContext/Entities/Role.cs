@@ -1,6 +1,6 @@
-using JwtStore.Core.SharedContext.Entities;
+using JwtStore.Core.Context.SharedContext.Entities;
 
-namespace JwtStore.Core.AccountContext.Entities;
+namespace JwtStore.Core.Context.AccountContext.Entities;
 public class Role : Entity
 {
   public string Name { get; set; } = string.Empty;
