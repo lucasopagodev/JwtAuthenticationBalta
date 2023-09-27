@@ -1,5 +1,4 @@
-using System.Runtime.CompilerServices;
-using JwtStore.Core.AccountContext.Entities;
+using JwtStore.Core.Contexts.AccountContext.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
