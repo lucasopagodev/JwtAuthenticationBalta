@@ -1,7 +1,6 @@
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.deps.json
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.dll
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.pdb
-/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.csproj.AssemblyReference.cache
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.AssemblyInfoInputs.cache
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.AssemblyInfo.cs
