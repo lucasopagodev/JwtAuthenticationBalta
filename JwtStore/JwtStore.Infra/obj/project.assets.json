@@ -46,6 +46,15 @@
           }
         }
       },
+      "Flunt/2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -964,6 +973,9 @@
       "JwtStore.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Flunt": "2.0.5"
+        },
         "compile": {
           "bin/placeholder/JwtStore.Core.dll": {}
         },
@@ -1010,6 +1022,19 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Flunt/2.0.5": {
+      "sha512": "CMgq8FUYjkHzyZT3PhkUwZyy79mudON+EL4b0SAT7BfIOJ2CNypwnbdA0cPHAM2CYQfO2L8ubNJCiBHQOIv2pA==",
+      "type": "package",
+      "path": "flunt/2.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.2.0.5.nupkg.sha512",
+        "flunt.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Flunt.dll"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -2634,19 +2659,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/lucasrodrigues/.nuget/packages/": {}
+    "/Users/0037796/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
+      "projectUniqueName": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
       "projectName": "JwtStore.Infra",
-      "projectPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
-      "packagesPath": "/Users/lucasrodrigues/.nuget/packages/",
-      "outputPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/obj/",
+      "projectPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
+      "packagesPath": "/Users/0037796/.nuget/packages/",
+      "outputPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lucasrodrigues/.nuget/NuGet/NuGet.Config"
+        "/Users/0037796/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -2659,8 +2684,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj": {
-              "projectPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj"
+            "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj": {
+              "projectPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj"
             }
           }
         }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9VshTmznxBqrJi9iUUyERZ6FKXksNKsox6HAwmumxsrjt/nE3McbwoE0EBfqeJTSZQ2ZI+updhEi4ROmn3opng==",
+  "dgSpecHash": "k+f2mlFmNfGjDnifew1pEPDGzqS1WSBFexj2C6J8tiOlDUcmwhoDpmYG95FwwwOqRZwELMh+rnwtNLDjR79rSw==",
   "success": true,
-  "projectFilePath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/0037796/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
