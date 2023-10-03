@@ -89,12 +89,13 @@ public class Handler
         {
             await _service.SendVerificationEmailAsync(user, cancellationToken);
         }
-        catch (System.Exception)
+        catch
         {
-            
-            throw;
+            // Realizar nada
         }
 
         #endregion
+
+        return new Response("Conta criada", new ResponseData(user.Id, user.Name, user.Email));
     }
 }
