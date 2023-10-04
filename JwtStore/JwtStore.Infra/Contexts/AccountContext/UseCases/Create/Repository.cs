@@ -3,7 +3,7 @@ using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contracts;
 using JwtStore.Infra.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace JwtStore.Infra;
+namespace JwtStore.Infra.Contexts.AccountContext.UseCases.Create;
 
 public class Repository : IRepository
 {

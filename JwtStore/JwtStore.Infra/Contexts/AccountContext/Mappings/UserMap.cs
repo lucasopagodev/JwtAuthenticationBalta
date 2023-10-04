@@ -2,7 +2,7 @@ using JwtStore.Core.Contexts.AccountContext.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace JwtStore.Infra.AccountContext.Mappings;
+namespace JwtStore.Infra.Contexts.AccountContext.Mappings;
 public class UserMap : IEntityTypeConfiguration<User>
 {
   public void Configure(EntityTypeBuilder<User> builder)

@@ -4,7 +4,7 @@ using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contracts;
 using SendGrid;
 using SendGrid.Helpers.Mail;
 
-namespace JwtStore.Infra;
+namespace JwtStore.Infra.Contexts.AccountContext.UseCases.Create;
 
 public class Service : IService
 {
