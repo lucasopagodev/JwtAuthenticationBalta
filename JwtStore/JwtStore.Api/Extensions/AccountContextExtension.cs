@@ -1,4 +1,7 @@
-﻿namespace JwtStore.Api;
+﻿using JwtStore.Core.Contexts.AccountContext.UseCases.Create;
+using MediatR;
+
+namespace JwtStore.Api;
 
 public static class AccountContextExtension
 {
@@ -21,6 +24,14 @@ public static class AccountContextExtension
 
     public static void MapAccountEndpoints(this WebApplication app)
     {
+        #region Create
 
+        app.MapPost("api/v1/users", async () => async (Request request, IRequestHandler<Request, Response> handler) =>
+        {
+            var result = await handler.Handle(request, new CancellationToken());
+            return result.IsSuccess ? Results.Created("", result) : Results.Json(result, statusCode: result.Status);
+        });
+
+        #endregion
     }
 }

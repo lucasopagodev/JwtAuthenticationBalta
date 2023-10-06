@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4PII/hKX2asLkwvViy/Mwczc5K9AEGJXdZLqt8+HF1iAX0jYKyk+47zUmNSfDsV9amJtRHtZMUED+a3kbOEjFA==",
+  "dgSpecHash": "THbeljdWDjMtq2veRjX8SnKvpNZdEkzCLmsppr3/BbmyyUagXRaNBpHT8Aqcx69eCXiep699OifvrhLXiSByeQ==",
   "success": true,
   "projectFilePath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/JwtStore.Api.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/0037796/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/0037796/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
     "/Users/0037796/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/0037796/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.11/microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "/Users/0037796/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/0037796/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

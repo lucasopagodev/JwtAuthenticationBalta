@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hsAMQ9HKGWf0l0aIKpfs83OK6q1yg5P2X3xc929e0sL9wr50jLQvYVzv1FBMhnswINV7useJKAJWyCVS244skg==",
+  "dgSpecHash": "Ofl/oX3o+6GzzQq1ULbgTECEl+G1PIffIU5M1zGTHwYIgfUUqJwcCVK1jSy5bUht1MYWll76JVBheTpuGU1Z+w==",
   "success": true,
   "projectFilePath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
   "expectedPackageFiles": [
     "/Users/0037796/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/0037796/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/0037796/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/0037796/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/0037796/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/0037796/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",
