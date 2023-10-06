@@ -19,6 +19,14 @@ public static class BuilderExtensions
         builder.Configuration.GetSection("Secrets").GetValue<string>("JwtPrivateKey") ?? string.Empty;
     Configuration.Secrets.PasswordSaltKey =
         builder.Configuration.GetSection("Secrets").GetValue<string>("PasswordSaltKey") ?? string.Empty;
+
+    Configuration.Secrets.PasswordSaltKey =
+        builder.Configuration.GetSection("SendGrid").GetValue<string>("ApiKey") ?? string.Empty;
+
+    Configuration.Secrets.PasswordSaltKey =
+        builder.Configuration.GetSection("SendGrid").GetValue<string>("DefaultFromName") ?? string.Empty;
+    Configuration.Secrets.PasswordSaltKey =
+        builder.Configuration.GetSection("SendGrid").GetValue<string>("DefaultFromEmail") ?? string.Empty;
   }
 
   public static void AddDatabase(this WebApplicationBuilder builder)
