@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj": {}
+    "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj": {}
   },
   "projects": {
-    "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj": {
+    "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
+        "projectUniqueName": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
         "projectName": "JwtStore.Core",
-        "projectPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
-        "packagesPath": "/Users/lucasrodrigues/.nuget/packages/",
-        "outputPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/",
+        "projectPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
+        "packagesPath": "/Users/0037796/.nuget/packages/",
+        "outputPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lucasrodrigues/.nuget/NuGet/NuGet.Config"
+          "/Users/0037796/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -68,17 +68,17 @@
         }
       }
     },
-    "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj": {
+    "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
+        "projectUniqueName": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
         "projectName": "JwtStore.Infra",
-        "projectPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
-        "packagesPath": "/Users/lucasrodrigues/.nuget/packages/",
-        "outputPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/obj/",
+        "projectPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/JwtStore.Infra.csproj",
+        "packagesPath": "/Users/0037796/.nuget/packages/",
+        "outputPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lucasrodrigues/.nuget/NuGet/NuGet.Config"
+          "/Users/0037796/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -91,8 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj": {
-                "projectPath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj"
+              "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj": {
+                "projectPath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj"
               }
             }
           }

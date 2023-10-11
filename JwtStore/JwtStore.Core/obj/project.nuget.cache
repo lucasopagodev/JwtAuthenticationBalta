@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ei6g2rw4gKkL8oXpuJLoamt5dtRF7jlzJYM4k/a3ORR4vwYcqOO4Dyao9vUp74bWLI5C6N0L5/CjV0rJzD2Yqw==",
+  "dgSpecHash": "E/EDBubiInlBPClO61fGEAFVfDgb9gl1wV25uqOsgboTB9LiWtebxbZrQxzN6WS0df8gIvRL5Nr0piJIdHiJxQ==",
   "success": true,
-  "projectFilePath": "/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
+  "projectFilePath": "/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/JwtStore.Core.csproj",
   "expectedPackageFiles": [
-    "/Users/lucasrodrigues/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
-    "/Users/lucasrodrigues/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
-    "/Users/lucasrodrigues/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/lucasrodrigues/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "/Users/0037796/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/0037796/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
