@@ -1,5 +1,5 @@
 using JwtStore.Core.Contexts.AccountContext.Entities;
-using JwtStore.Infra.AccountContext.Mappings;
+using JwtStore.Infra.Contexts.AccountContext.Mappings;
 using Microsoft.EntityFrameworkCore;
 
 namespace JwtStore.Infra.Data;

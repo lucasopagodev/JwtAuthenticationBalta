@@ -9,3 +9,15 @@
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/refint/JwtStore.Core.dll
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.pdb
 /Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/ref/JwtStore.Core.dll
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.csproj.AssemblyReference.cache
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.AssemblyInfoInputs.cache
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.AssemblyInfo.cs
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.csproj.CoreCompileInputs.cache
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.deps.json
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.dll
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.pdb
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.dll
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/refint/JwtStore.Core.dll
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.pdb
+/Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Core/obj/Debug/net7.0/ref/JwtStore.Core.dll
