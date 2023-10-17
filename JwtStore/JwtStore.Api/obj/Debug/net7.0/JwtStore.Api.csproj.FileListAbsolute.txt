@@ -154,3 +154,9 @@
 /Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/obj/Debug/net7.0/JwtStore.Api.pdb
 /Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/obj/Debug/net7.0/JwtStore.Api.genruntimeconfig.cache
 /Users/0037796/Documents/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/obj/Debug/net7.0/ref/JwtStore.Api.dll
+/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/bin/Debug/net7.0/Flunt.dll
+/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/bin/Debug/net7.0/MediatR.dll
+/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/bin/Debug/net7.0/SendGrid.dll
+/Users/lucasrodrigues/dev/GitHub/JwtAuthenticationBalta/JwtStore/JwtStore.Api/bin/Debug/net7.0/StarkbankEcdsa.dll
