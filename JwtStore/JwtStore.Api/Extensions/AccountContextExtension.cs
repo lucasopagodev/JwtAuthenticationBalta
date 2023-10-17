@@ -36,7 +36,7 @@ public static class AccountContextExtension
     {
         #region Create
 
-        app.MapPost("api/v1/users", async () => async (JwtStore.Core.Contexts.AccountContext.UseCases.Create.Request request, 
+        app.MapPost("api/v1/users", async (JwtStore.Core.Contexts.AccountContext.UseCases.Create.Request request, 
             IRequestHandler<JwtStore.Core.Contexts.AccountContext.UseCases.Create.Request, 
             JwtStore.Core.Contexts.AccountContext.UseCases.Create.Response> handler) =>
         {
@@ -48,7 +48,7 @@ public static class AccountContextExtension
 
         #region Authenticate
 
-        app.MapPost("api/v1/authenticate", async () => async (JwtStore.Core.Contexts.AccountContext.UseCases.Authenticate.Request request, 
+        app.MapPost("api/v1/authenticate", async (JwtStore.Core.Contexts.AccountContext.UseCases.Authenticate.Request request, 
             IRequestHandler<JwtStore.Core.Contexts.AccountContext.UseCases.Authenticate.Request, 
             JwtStore.Core.Contexts.AccountContext.UseCases.Authenticate.Response> handler) =>
         {

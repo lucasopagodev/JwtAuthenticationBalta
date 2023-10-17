@@ -12,5 +12,10 @@ public class Repository : IRepository
     public Repository(AppDbContext context)
         => _context = context;
 
-    public async Task<User?> GetUserByEmailAsync(string email, CancellationToken cancellationToken) => await _context.Users.AsNoTracking().FirstOrDefaultAsync(x => x.Email.Address == email, cancellationToken);
+    public async Task<User?> GetUserByEmailAsync(string email, CancellationToken cancellationToken) 
+        => await _context
+            .Users
+            .AsNoTracking()
+            .Include(x => x.Roles)
+            .FirstOrDefaultAsync(x => x.Email.Address == email, cancellationToken);
 }
